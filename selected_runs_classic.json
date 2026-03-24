@@ -1,0 +1,542 @@
+{
+  "reference": "Data 1 (Bridge/RailJoint/Turnout)",
+  "threshold_m": 250,
+  "min_share": 0.25,
+  "min_distance_km": 0.4,
+  "min_ref_coverage": 0.01,
+  "ensure_railjoint_run": true,
+  "selected": [
+    {
+      "run": "2024-12-10 20-00-00 (1)",
+      "score": 1.0,
+      "ref_coverage": 0.15126050420168066,
+      "corridor_score": 1.0,
+      "corridor_dir": "fwd",
+      "distance_km": 0.46769920833055173,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.0,
+      "turnout_cov": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 20-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 20-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 20-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 20-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 20-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 20-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 20-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 20-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 22-00-00 (1)",
+      "score": 1.0,
+      "ref_coverage": 0.15126050420168066,
+      "corridor_score": 1.0,
+      "corridor_dir": "fwd",
+      "distance_km": 0.5948292915364329,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.0,
+      "turnout_cov": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 22-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 22-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 22-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 22-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 22-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 22-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 22-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 22-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 04-00-00 (1)",
+      "score": 1.0,
+      "ref_coverage": 0.25210084033613445,
+      "corridor_score": 1.0,
+      "corridor_dir": "fwd",
+      "distance_km": 4.018592143278179,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.19694444444444445,
+      "turnout_cov": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-11 04-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-11 04-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-11 04-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-11 04-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-11 04-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-11 04-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-11 04-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-11 04-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 06-00-00 (1)",
+      "score": 0.9813611111111111,
+      "ref_coverage": 0.05042016806722689,
+      "corridor_score": 0.0,
+      "corridor_dir": "fwd",
+      "distance_km": 4.24619319851071,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.9658333333333333,
+      "turnout_cov": 0.020555555555555556,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-11 06-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-11 06-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-11 06-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-11 06-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-11 06-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-11 06-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-11 06-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-11 06-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 00-00-00 (1)",
+      "score": 0.9181111111111111,
+      "ref_coverage": 0.21008403361344538,
+      "corridor_score": 0.9788888888888889,
+      "corridor_dir": "fwd",
+      "distance_km": 8.73242486801538,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.0,
+      "turnout_cov": 0.9183333333333333,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-11 00-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-11 00-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-11 00-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-11 00-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-11 00-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-11 00-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-11 00-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-11 00-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 12-00-00 (1)",
+      "score": 0.3186388888888889,
+      "ref_coverage": 0.35294117647058826,
+      "corridor_score": 0.29527777777777775,
+      "corridor_dir": "fwd",
+      "distance_km": 81.97455283210685,
+      "railjoint_cov": 0.06194444444444445,
+      "bridge_cov": 0.07333333333333333,
+      "turnout_cov": 0.19777777777777777,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 12-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 12-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 12-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 12-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 12-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 12-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 12-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 16-00-00 (1)",
+      "score": 0.20247222222222222,
+      "ref_coverage": 0.4117647058823529,
+      "corridor_score": 0.1825,
+      "corridor_dir": "fwd",
+      "distance_km": 73.01993305426937,
+      "railjoint_cov": 0.07277777777777777,
+      "bridge_cov": 0.06472222222222222,
+      "turnout_cov": 0.09055555555555556,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 16-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 16-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 16-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 16-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 16-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 16-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 16-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 10-00-00 (1)",
+      "score": 0.15619444444444444,
+      "ref_coverage": 0.3445378151260504,
+      "corridor_score": 0.09666666666666666,
+      "corridor_dir": "fwd",
+      "distance_km": 41.57910631230955,
+      "railjoint_cov": 0.030555555555555555,
+      "bridge_cov": 0.03138888888888889,
+      "turnout_cov": 0.10111111111111111,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-11 10-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-11 10-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-11 10-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-11 10-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-11 10-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-11 10-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-11 10-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-12 14-00-00 (1)",
+      "score": 0.14577777777777778,
+      "ref_coverage": 0.40336134453781514,
+      "corridor_score": 0.11555555555555555,
+      "corridor_dir": "fwd",
+      "distance_km": 39.55146334301097,
+      "railjoint_cov": 0.03611111111111111,
+      "bridge_cov": 0.03361111111111111,
+      "turnout_cov": 0.09194444444444444,
+      "files": {
+        "latitude": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-12 14-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-12 14-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-12 14-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-12 14-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-12 14-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-12 14-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-12 14-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-12 14-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-12 12-00-00 (1)",
+      "score": 0.11477777777777778,
+      "ref_coverage": 0.13445378151260504,
+      "corridor_score": 0.017777777777777778,
+      "corridor_dir": "fwd",
+      "distance_km": 56.80024720492448,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.03,
+      "turnout_cov": 0.09388888888888888,
+      "files": {
+        "latitude": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-12 12-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-12 12-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-12 12-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-12 12-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-12 12-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-12 12-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-12 12-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-12 12-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 14-00-00 (1)",
+      "score": 0.10594444444444444,
+      "ref_coverage": 0.16806722689075632,
+      "corridor_score": 0.013888888888888888,
+      "corridor_dir": "fwd",
+      "distance_km": 44.674807752587085,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.02666666666666667,
+      "turnout_cov": 0.08638888888888889,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 14-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 14-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 14-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 14-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 14-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 14-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 14-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 14-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 18-00-00 (1)",
+      "score": 0.03358333333333333,
+      "ref_coverage": 0.058823529411764705,
+      "corridor_score": 0.0,
+      "corridor_dir": "fwd",
+      "distance_km": 8.679438975819219,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.006666666666666667,
+      "turnout_cov": 0.028333333333333332,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 18-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 18-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 18-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 18-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 18-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 18-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 18-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 18-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 08-00-00 (1)",
+      "score": 0.03013888888888889,
+      "ref_coverage": 0.06722689075630252,
+      "corridor_score": 0.0,
+      "corridor_dir": "fwd",
+      "distance_km": 12.042226133244657,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.0125,
+      "turnout_cov": 0.021666666666666667,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-11 08-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-11 08-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-11 08-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-11 08-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-11 08-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-11 08-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-11 08-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-11 08-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 10-00-00 (1)",
+      "score": 0.00836111111111111,
+      "ref_coverage": 0.03361344537815126,
+      "corridor_score": 0.02,
+      "corridor_dir": "fwd",
+      "distance_km": 15.879191941698876,
+      "railjoint_cov": 0.0,
+      "bridge_cov": 0.0038888888888888888,
+      "turnout_cov": 0.0044444444444444444,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.latitude.refined.csv",
+        "longitude": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration1": "Data 2\\2024-12-10 10-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2": "Data 2\\2024-12-10 10-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "satellites": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.satellites.csv"
+      },
+      "refine": {
+        "folder": "Data 2\\2024-12-10 10-00-00 (1)",
+        "gps": {
+          "cached": true
+        },
+        "gps_lat_refined": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.latitude.refined.csv",
+        "gps_lon_refined": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.longitude.refined.csv",
+        "speed": {
+          "cached": true
+        },
+        "gps_speed_refined": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.speed.refined.csv",
+        "vibration": {
+          "cached": true
+        },
+        "vibration1_refined": "Data 2\\2024-12-10 10-00-00 (1)\\CH1_ACCEL1Z1.refined.csv",
+        "vibration2_refined": "Data 2\\2024-12-10 10-00-00 (1)\\CH2_ACCEL1Z2.refined.csv",
+        "vibration_features": "Data 2\\2024-12-10 10-00-00 (1)\\vibration_segments.refined.features.csv",
+        "vibration_spikes": "Data 2\\2024-12-10 10-00-00 (1)\\vibration.refined.spikes.csv"
+      }
+    }
+  ]
+}

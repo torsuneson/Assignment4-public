@@ -1,0 +1,16 @@
+{
+  "reference": "Data 1 (Bridge/RailJoint/Turnout)",
+  "selected": [
+    {
+      "run": "2024-11-18",
+      "score": 0.92,
+      "files": {
+        "latitude": "Data 2/2024-11-18/GPS.latitude.csv",
+        "longitude": "Data 2/2024-11-18/GPS.longitude.csv",
+        "speed": "Data 2/2024-11-18/GPS.speed.csv",
+        "vibration1": "Data 2/2024-11-18/CH1_ACCEL1Z1.csv",
+        "vibration2": "Data 2/2024-11-18/CH2_ACCEL1Z2.csv"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "quick_manifest",
+  "min_bbox_share": 0.6,
+  "distance_band_km": [
+    50.0,
+    120.0
+  ],
+  "selected": [
+    {
+      "run": "2024-12-14 16-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-14 16-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-14 16-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-16 12-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-16 12-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-16 12-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-17 10-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-17 10-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-17 10-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-19 04-02-35 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-19 04-02-35 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-19 04-02-35 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-26 12-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-26 12-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-26 12-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-30 08-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-30 08-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-30 08-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-30 14-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-30 14-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-30 14-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-30 20-00-00 (1)",
+      "quality" : "good",
+      "files": {
+        "latitude": "Data 2\\2024-12-30 20-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-30 20-00-00 (1)\\GPS.longitude.csv"
+      }
+    }
+  ]
+}

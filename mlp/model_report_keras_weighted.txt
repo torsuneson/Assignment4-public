@@ -1,0 +1,13 @@
+=== keras_mlp_weighted (deep learning) ===
+accuracy: 0.5268
+macro_f1: 0.3810
+              precision    recall  f1-score   support
+
+      Bridge       0.15      0.61      0.24      1510
+   RailJoint       0.26      0.71      0.38      1495
+     Turnout       0.15      0.45      0.23      3131
+       Other       0.94      0.52      0.67     29862
+
+    accuracy                           0.53     35998
+   macro avg       0.38      0.57      0.38     35998
+weighted avg       0.81      0.53      0.60     35998

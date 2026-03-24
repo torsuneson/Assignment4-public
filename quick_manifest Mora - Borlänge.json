@@ -1,0 +1,110 @@
+{
+  "type": "quick_manifest",
+  "min_bbox_share": 0.6,
+  "distance_band_km": [
+    50.0,
+    120.0
+  ],
+  "selected": [
+    {
+      "run": "2024-12-10 10-00-00 (1)",
+      "quality" : "good",
+      "distance_km": 88.08608659884243,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-10 10-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 12-00-00 (1)",
+      "quality" : "good",
+      "distance_km": 82.16133609105134,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-10 12-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-10 16-00-00 (1)",
+      "quality" : "good",
+      "distance_km": 92.6227545275541,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-10 16-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 10-00-00 (1)",
+      "quality" : "good",
+      "distance_km": 71.00316465792089,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-11 10-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 14-00-00 (1)",
+      "quality" : "bad",
+      "distance_km": 69.76629238497912,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 14-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-11 14-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-11 16-00-00 (1)",
+      "quality" : "good",
+      "distance_km": 117.34487649913092,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-11 16-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-11 16-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-15 08-00-00 (1)",
+      "quality" : "bad",
+      "distance_km": 77.96583599366016,
+      "bbox_share": 0.8611111111111112,
+      "files": {
+        "latitude": "Data 2\\2024-12-15 08-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-15 08-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-15 16-00-00 (1)",
+      "quality" : "bad",
+      "distance_km": 89.54253428194549,
+      "bbox_share": 0.91991643454039,
+      "files": {
+        "latitude": "Data 2\\2024-12-15 16-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-15 16-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-15 18-00-00 (1)",
+      "quality" : "bad",
+      "distance_km": 54.184409611518106,
+      "bbox_share": 1.0,
+      "files": {
+        "latitude": "Data 2\\2024-12-15 18-00-00 (1)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-15 18-00-00 (1)\\GPS.longitude.csv"
+      }
+    },
+    {
+      "run": "2024-12-23 22-00-00 (2)", 
+      "quality" : "bad",
+      "distance_km": 51.42384268649018,
+      "bbox_share": 0.9443671766342142,
+      "files": {
+        "latitude": "Data 2\\2024-12-23 22-00-00 (2)\\GPS.latitude.csv",
+        "longitude": "Data 2\\2024-12-23 22-00-00 (2)\\GPS.longitude.csv"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "selected_features": [
+    "bp30_120_ch2",
+    "rms_ch2",
+    "bp30_120",
+    "bp30_120_ch1",
+    "rms_ch1",
+    "energy",
+    "peak_ch2",
+    "p2p_ch2",
+    "peak",
+    "p2p_ch1",
+    "peak_ch1",
+    "spikecount_ch1",
+    "spikecount_ch2",
+    "spike_density",
+    "spikecount",
+    "zcr_ch2",
+    "zcr_ch1",
+    "bandpower_ratio_1",
+    "kurt_ch2",
+    "kurt_ch1"
+  ]
+}

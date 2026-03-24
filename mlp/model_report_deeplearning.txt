@@ -1,0 +1,13 @@
+=== mlp (deep learning) ===
+accuracy: 0.7798
+macro_f1: 0.2419
+              precision    recall  f1-score   support
+
+      Bridge       0.02      0.01      0.01      1510
+   RailJoint       0.10      0.03      0.04      1495
+     Turnout       0.05      0.02      0.03      3131
+       Other       0.83      0.94      0.88     29862
+
+    accuracy                           0.78     35998
+   macro avg       0.25      0.25      0.24     35998
+weighted avg       0.70      0.78      0.73     35998
